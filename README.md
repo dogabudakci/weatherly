@@ -2,6 +2,8 @@
 
 A weather dashboard built with plain HTML, CSS and JavaScript (ES modules), with no framework and no build step. Search any city to see its current conditions, a 24-hour forecast, up to 15 days ahead, and its location on an interactive 3D globe.
 
+**Live demo: [dogabudakci.github.io/weatherly](https://dogabudakci.github.io/weatherly/)**
+
 ![Weatherly dashboard showing the weather in Munich](docs/screenshot.png)
 
 ## Features
